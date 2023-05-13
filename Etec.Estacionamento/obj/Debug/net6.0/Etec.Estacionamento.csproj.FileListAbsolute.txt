@@ -1,0 +1,60 @@
+C:\Desenvolvimento\Aulas\Etec.Estacionamento\Etec.Estacionamento\bin\Debug\net6.0\Etec.Estacionamento.exe
+C:\Desenvolvimento\Aulas\Etec.Estacionamento\Etec.Estacionamento\bin\Debug\net6.0\Etec.Estacionamento.deps.json
+C:\Desenvolvimento\Aulas\Etec.Estacionamento\Etec.Estacionamento\bin\Debug\net6.0\Etec.Estacionamento.runtimeconfig.json
+C:\Desenvolvimento\Aulas\Etec.Estacionamento\Etec.Estacionamento\bin\Debug\net6.0\Etec.Estacionamento.dll
+C:\Desenvolvimento\Aulas\Etec.Estacionamento\Etec.Estacionamento\bin\Debug\net6.0\Etec.Estacionamento.pdb
+C:\Desenvolvimento\Aulas\Etec.Estacionamento\Etec.Estacionamento\obj\Debug\net6.0\Etec.Estacionamento.csproj.AssemblyReference.cache
+C:\Desenvolvimento\Aulas\Etec.Estacionamento\Etec.Estacionamento\obj\Debug\net6.0\Etec.Estacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desenvolvimento\Aulas\Etec.Estacionamento\Etec.Estacionamento\obj\Debug\net6.0\Etec.Estacionamento.AssemblyInfoInputs.cache
+C:\Desenvolvimento\Aulas\Etec.Estacionamento\Etec.Estacionamento\obj\Debug\net6.0\Etec.Estacionamento.AssemblyInfo.cs
+C:\Desenvolvimento\Aulas\Etec.Estacionamento\Etec.Estacionamento\obj\Debug\net6.0\Etec.Estacionamento.csproj.CoreCompileInputs.cache
+C:\Desenvolvimento\Aulas\Etec.Estacionamento\Etec.Estacionamento\obj\Debug\net6.0\Etec.Estacionamento.dll
+C:\Desenvolvimento\Aulas\Etec.Estacionamento\Etec.Estacionamento\obj\Debug\net6.0\refint\Etec.Estacionamento.dll
+C:\Desenvolvimento\Aulas\Etec.Estacionamento\Etec.Estacionamento\obj\Debug\net6.0\Etec.Estacionamento.pdb
+C:\Desenvolvimento\Aulas\Etec.Estacionamento\Etec.Estacionamento\obj\Debug\net6.0\Etec.Estacionamento.genruntimeconfig.cache
+C:\Desenvolvimento\Aulas\Etec.Estacionamento\Etec.Estacionamento\obj\Debug\net6.0\ref\Etec.Estacionamento.dll
+E:\Galli\PlanodeAulas\ETEC\2023-01\DesenvolvimentodeSistemasII\ProjetosdeTrabalho\Etec.Estacionamento\Etec.Estacionamento\bin\Debug\net6.0\Etec.Estacionamento.exe
+E:\Galli\PlanodeAulas\ETEC\2023-01\DesenvolvimentodeSistemasII\ProjetosdeTrabalho\Etec.Estacionamento\Etec.Estacionamento\bin\Debug\net6.0\Etec.Estacionamento.deps.json
+E:\Galli\PlanodeAulas\ETEC\2023-01\DesenvolvimentodeSistemasII\ProjetosdeTrabalho\Etec.Estacionamento\Etec.Estacionamento\bin\Debug\net6.0\Etec.Estacionamento.runtimeconfig.json
+E:\Galli\PlanodeAulas\ETEC\2023-01\DesenvolvimentodeSistemasII\ProjetosdeTrabalho\Etec.Estacionamento\Etec.Estacionamento\bin\Debug\net6.0\Etec.Estacionamento.dll
+E:\Galli\PlanodeAulas\ETEC\2023-01\DesenvolvimentodeSistemasII\ProjetosdeTrabalho\Etec.Estacionamento\Etec.Estacionamento\bin\Debug\net6.0\Etec.Estacionamento.pdb
+E:\Galli\PlanodeAulas\ETEC\2023-01\DesenvolvimentodeSistemasII\ProjetosdeTrabalho\Etec.Estacionamento\Etec.Estacionamento\obj\Debug\net6.0\Etec.Estacionamento.csproj.AssemblyReference.cache
+E:\Galli\PlanodeAulas\ETEC\2023-01\DesenvolvimentodeSistemasII\ProjetosdeTrabalho\Etec.Estacionamento\Etec.Estacionamento\obj\Debug\net6.0\Etec.Estacionamento.GeneratedMSBuildEditorConfig.editorconfig
+E:\Galli\PlanodeAulas\ETEC\2023-01\DesenvolvimentodeSistemasII\ProjetosdeTrabalho\Etec.Estacionamento\Etec.Estacionamento\obj\Debug\net6.0\Etec.Estacionamento.AssemblyInfoInputs.cache
+E:\Galli\PlanodeAulas\ETEC\2023-01\DesenvolvimentodeSistemasII\ProjetosdeTrabalho\Etec.Estacionamento\Etec.Estacionamento\obj\Debug\net6.0\Etec.Estacionamento.AssemblyInfo.cs
+E:\Galli\PlanodeAulas\ETEC\2023-01\DesenvolvimentodeSistemasII\ProjetosdeTrabalho\Etec.Estacionamento\Etec.Estacionamento\obj\Debug\net6.0\Etec.Estacionamento.csproj.CoreCompileInputs.cache
+E:\Galli\PlanodeAulas\ETEC\2023-01\DesenvolvimentodeSistemasII\ProjetosdeTrabalho\Etec.Estacionamento\Etec.Estacionamento\obj\Debug\net6.0\Etec.Estacionamento.dll
+E:\Galli\PlanodeAulas\ETEC\2023-01\DesenvolvimentodeSistemasII\ProjetosdeTrabalho\Etec.Estacionamento\Etec.Estacionamento\obj\Debug\net6.0\refint\Etec.Estacionamento.dll
+E:\Galli\PlanodeAulas\ETEC\2023-01\DesenvolvimentodeSistemasII\ProjetosdeTrabalho\Etec.Estacionamento\Etec.Estacionamento\obj\Debug\net6.0\Etec.Estacionamento.pdb
+E:\Galli\PlanodeAulas\ETEC\2023-01\DesenvolvimentodeSistemasII\ProjetosdeTrabalho\Etec.Estacionamento\Etec.Estacionamento\obj\Debug\net6.0\Etec.Estacionamento.genruntimeconfig.cache
+E:\Galli\PlanodeAulas\ETEC\2023-01\DesenvolvimentodeSistemasII\ProjetosdeTrabalho\Etec.Estacionamento\Etec.Estacionamento\obj\Debug\net6.0\ref\Etec.Estacionamento.dll
+R:\Ens Tecnico\DESENVOLVIMENTO DE SISTEMAS\3 Modulo\DesenvSistemasII\ProjetosdeTrabalho\Etec.Estacionamento\Etec.Estacionamento\bin\Debug\net6.0\Etec.Estacionamento.exe
+R:\Ens Tecnico\DESENVOLVIMENTO DE SISTEMAS\3 Modulo\DesenvSistemasII\ProjetosdeTrabalho\Etec.Estacionamento\Etec.Estacionamento\bin\Debug\net6.0\Etec.Estacionamento.deps.json
+R:\Ens Tecnico\DESENVOLVIMENTO DE SISTEMAS\3 Modulo\DesenvSistemasII\ProjetosdeTrabalho\Etec.Estacionamento\Etec.Estacionamento\bin\Debug\net6.0\Etec.Estacionamento.runtimeconfig.json
+R:\Ens Tecnico\DESENVOLVIMENTO DE SISTEMAS\3 Modulo\DesenvSistemasII\ProjetosdeTrabalho\Etec.Estacionamento\Etec.Estacionamento\bin\Debug\net6.0\Etec.Estacionamento.dll
+R:\Ens Tecnico\DESENVOLVIMENTO DE SISTEMAS\3 Modulo\DesenvSistemasII\ProjetosdeTrabalho\Etec.Estacionamento\Etec.Estacionamento\bin\Debug\net6.0\Etec.Estacionamento.pdb
+R:\Ens Tecnico\DESENVOLVIMENTO DE SISTEMAS\3 Modulo\DesenvSistemasII\ProjetosdeTrabalho\Etec.Estacionamento\Etec.Estacionamento\obj\Debug\net6.0\Etec.Estacionamento.csproj.AssemblyReference.cache
+R:\Ens Tecnico\DESENVOLVIMENTO DE SISTEMAS\3 Modulo\DesenvSistemasII\ProjetosdeTrabalho\Etec.Estacionamento\Etec.Estacionamento\obj\Debug\net6.0\Etec.Estacionamento.GeneratedMSBuildEditorConfig.editorconfig
+R:\Ens Tecnico\DESENVOLVIMENTO DE SISTEMAS\3 Modulo\DesenvSistemasII\ProjetosdeTrabalho\Etec.Estacionamento\Etec.Estacionamento\obj\Debug\net6.0\Etec.Estacionamento.AssemblyInfoInputs.cache
+R:\Ens Tecnico\DESENVOLVIMENTO DE SISTEMAS\3 Modulo\DesenvSistemasII\ProjetosdeTrabalho\Etec.Estacionamento\Etec.Estacionamento\obj\Debug\net6.0\Etec.Estacionamento.AssemblyInfo.cs
+R:\Ens Tecnico\DESENVOLVIMENTO DE SISTEMAS\3 Modulo\DesenvSistemasII\ProjetosdeTrabalho\Etec.Estacionamento\Etec.Estacionamento\obj\Debug\net6.0\Etec.Estacionamento.csproj.CoreCompileInputs.cache
+R:\Ens Tecnico\DESENVOLVIMENTO DE SISTEMAS\3 Modulo\DesenvSistemasII\ProjetosdeTrabalho\Etec.Estacionamento\Etec.Estacionamento\obj\Debug\net6.0\Etec.Estacionamento.dll
+R:\Ens Tecnico\DESENVOLVIMENTO DE SISTEMAS\3 Modulo\DesenvSistemasII\ProjetosdeTrabalho\Etec.Estacionamento\Etec.Estacionamento\obj\Debug\net6.0\refint\Etec.Estacionamento.dll
+R:\Ens Tecnico\DESENVOLVIMENTO DE SISTEMAS\3 Modulo\DesenvSistemasII\ProjetosdeTrabalho\Etec.Estacionamento\Etec.Estacionamento\obj\Debug\net6.0\Etec.Estacionamento.pdb
+R:\Ens Tecnico\DESENVOLVIMENTO DE SISTEMAS\3 Modulo\DesenvSistemasII\ProjetosdeTrabalho\Etec.Estacionamento\Etec.Estacionamento\obj\Debug\net6.0\Etec.Estacionamento.genruntimeconfig.cache
+R:\Ens Tecnico\DESENVOLVIMENTO DE SISTEMAS\3 Modulo\DesenvSistemasII\ProjetosdeTrabalho\Etec.Estacionamento\Etec.Estacionamento\obj\Debug\net6.0\ref\Etec.Estacionamento.dll
+C:\Users\etec\Desktop\Etec.Estacionamento\Etec.Estacionamento\bin\Debug\net6.0\Etec.Estacionamento.exe
+C:\Users\etec\Desktop\Etec.Estacionamento\Etec.Estacionamento\bin\Debug\net6.0\Etec.Estacionamento.deps.json
+C:\Users\etec\Desktop\Etec.Estacionamento\Etec.Estacionamento\bin\Debug\net6.0\Etec.Estacionamento.runtimeconfig.json
+C:\Users\etec\Desktop\Etec.Estacionamento\Etec.Estacionamento\bin\Debug\net6.0\Etec.Estacionamento.dll
+C:\Users\etec\Desktop\Etec.Estacionamento\Etec.Estacionamento\bin\Debug\net6.0\Etec.Estacionamento.pdb
+C:\Users\etec\Desktop\Etec.Estacionamento\Etec.Estacionamento\obj\Debug\net6.0\Etec.Estacionamento.csproj.AssemblyReference.cache
+C:\Users\etec\Desktop\Etec.Estacionamento\Etec.Estacionamento\obj\Debug\net6.0\Etec.Estacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\etec\Desktop\Etec.Estacionamento\Etec.Estacionamento\obj\Debug\net6.0\Etec.Estacionamento.AssemblyInfoInputs.cache
+C:\Users\etec\Desktop\Etec.Estacionamento\Etec.Estacionamento\obj\Debug\net6.0\Etec.Estacionamento.AssemblyInfo.cs
+C:\Users\etec\Desktop\Etec.Estacionamento\Etec.Estacionamento\obj\Debug\net6.0\Etec.Estacionamento.csproj.CoreCompileInputs.cache
+C:\Users\etec\Desktop\Etec.Estacionamento\Etec.Estacionamento\obj\Debug\net6.0\Etec.Estacionamento.dll
+C:\Users\etec\Desktop\Etec.Estacionamento\Etec.Estacionamento\obj\Debug\net6.0\refint\Etec.Estacionamento.dll
+C:\Users\etec\Desktop\Etec.Estacionamento\Etec.Estacionamento\obj\Debug\net6.0\Etec.Estacionamento.pdb
+C:\Users\etec\Desktop\Etec.Estacionamento\Etec.Estacionamento\obj\Debug\net6.0\Etec.Estacionamento.genruntimeconfig.cache
+C:\Users\etec\Desktop\Etec.Estacionamento\Etec.Estacionamento\obj\Debug\net6.0\ref\Etec.Estacionamento.dll
